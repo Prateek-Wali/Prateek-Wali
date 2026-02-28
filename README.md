@@ -1,6 +1,6 @@
 # Hi there, I'm Prateek Wali! 👋
 
-I'm a Computer Science student at the New Jersey Institute of Technology, expected to graduate in March 2028. I'm passionate about building impactful web applications, integrating generative AI into practical tools, and constantly expanding my technical skill set. When I'm not coding, you can usually find me on the volleyball court or shooting pictures.
+I'm a Computer Science student at the New Jersey Institute of Technology. I'm passionate about building impactful web applications, integrating generative AI into practical tools, and constantly expanding my technical skill set. When I'm not coding, you can usually find me on the volleyball court or shooting pictures.
 
 ### 🚀 What I'm Currently Working On
 
