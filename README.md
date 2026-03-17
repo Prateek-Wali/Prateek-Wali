@@ -4,7 +4,7 @@ I'm a Computer Science student at the New Jersey Institute of Technology. I'm pa
 
 ### 🚀 What I'm Currently Working On
 
-* **DevPrepAI:** Building a real-time, AI-powered mock interview platform using Next.js, TypeScript, and the Gemini API. It features a conversational voice agent that adapts questions based on a user's resume and chosen technical tracks.
+* **Lintrvw:** Building a real-time, AI-powered mock interview platform using Next.js, TypeScript, and the Gemini API. It features a conversational voice agent that adapts questions based on a user's resume and chosen technical tracks.
 * **CodeSnap:** Developing a productivity-focused browser extension (currently on the Chrome Web Store) that uses OCR technology to extract code directly from video tutorials.
 * **NJIT Volleyball Club:** Managing a full-stack web application I built to automate open-gym registration, which successfully scaled to serve over 110 members in its first two months.
 
